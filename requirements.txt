@@ -2,3 +2,4 @@ streamlit
 yfinance
 openai
 pandas
+python-dotenv
